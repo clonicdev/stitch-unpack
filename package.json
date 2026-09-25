@@ -1,0 +1,23 @@
+{
+  "name": "stitch-unpack",
+  "version": "1.0.0",
+  "description": "Herramienta CLI para procesar exportaciones ZIP de Google Stitch a proyectos web limpios y listos para produccion.",
+  "main": "bin/stitch-unpack.js",
+  "bin": {
+    "stitch-unpack": "./bin/stitch-unpack.js"
+  },
+  "keywords": [
+    "stitch",
+    "google-stitch",
+    "web-scraper",
+    "asset-downloader",
+    "landing-page",
+    "clean-code",
+    "cli"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

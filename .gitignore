@@ -1,0 +1,24 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Entorno Node (en caso de que se creen en el futuro)
+node_modules/
+package-lock.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de prueba y datos locales
+*.zip
+temp/
+test/
+
+# Carpetas generadas en pruebas locales
+/sample-*/
+/landing-*/
+
+# Contexto de IA y bitácoras privadas de desarrollo local
+AGENTS.md
+AI-COLLABORATORS.md
